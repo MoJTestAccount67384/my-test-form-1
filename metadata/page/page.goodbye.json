@@ -1,0 +1,8 @@
+{
+  "_id": "page.goodbye",
+  "_type": "page.summary",
+  "heading": "Check yo self",
+  "lede": "This is a custom para 😊️",
+  "sendBody": "It best be correct",
+  "url": "goodbye"
+}
