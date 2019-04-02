@@ -1,0 +1,24 @@
+{
+  "_id": "page.lots-of-questions",
+  "_type": "page.form",
+  "components": [
+    {
+      "_id": "page.lots-of-questions--text.auto_name__3",
+      "_type": "text",
+      "errors": {
+        "minLength": {
+          "summary": "➡️ \" {control}\"  ⬅️ no! Minimum length requirement not met!!"
+        }
+      },
+      "hint": "pls do it",
+      "label": "Enter your phone number",
+      "name": "auto_name__3",
+      "validation": {
+        "maxLength": 5,
+        "minLength": 2
+      }
+    }
+  ],
+  "heading": "This is question 1 on this page",
+  "url": "lots-of-questions"
+}
