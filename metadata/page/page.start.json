@@ -5,7 +5,8 @@
   "components": [
     {
       "_id": "page.start--content",
-      "_type": "content"
+      "_type": "content",
+      "html": "Hello"
     }
   ],
   "heading": "Example title 🌊️",
@@ -13,7 +14,9 @@
   "steps": [
     "page.test-question-1",
     "page.nooo",
-    "page.goodbye"
+    "page.final-1",
+    "page.goodbye",
+    "page.lots-of-questions"
   ],
   "url": "/"
 }
