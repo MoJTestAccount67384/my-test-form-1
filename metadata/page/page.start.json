@@ -13,10 +13,9 @@
   "lede": "Example para",
   "steps": [
     "page.test-question-1",
-    "page.nooo",
+    "page.lots-of-questions",
     "page.final-1",
-    "page.goodbye",
-    "page.lots-of-questions"
+    "page.goodbye"
   ],
   "url": "/"
 }
